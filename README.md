@@ -1,2 +1,1 @@
-# abhika2s.github.io
-Repository for Webpage Hosting.
+# Official Website Hosting Repository
