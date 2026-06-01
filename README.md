@@ -1,1 +1,5 @@
-# Official Website Hosting Repository
+---
+layout: default
+title: Home
+---
+# Special Topics in Physics Series
