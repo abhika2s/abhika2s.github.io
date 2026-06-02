@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-¡Welcome! One-Page Reading Notes on the Following Broad Topics:
+**Welcome!** Here are some short reading notes on the following topics:
 
 - &emsp; Classical Physics
 - &emsp; Relativistic Physics
@@ -10,4 +10,4 @@ title: Home
 - &emsp; Statistical Physics
 - &emsp; Quantum Physics
 
-These are intended strictly for informal use or reference purposes.
+These notes are intended strictly for **informal use** or **as references**.
