@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 ![Map of Physics](mapofphysics.png)
-# Classical Physics
-# Relativistic Physics
-# Mathematical Physics
-# Statistical Physics
-# Quantum Physics
+# CLASSICAL PHYSICS
+# RELATIVISTIC PHYSICS
+# MATHEMATICAL PHYSICS
+# STATISTICAL PHYSICS
+# QUANTUM PHYSICS
