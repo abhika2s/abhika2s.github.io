@@ -13,4 +13,4 @@ A collection of highlights on special topics in Physics and Mathematics.
 ![Map of Particles](mapofparticles.jpeg)
 # TOPICS IN PARTICLE PHYSICS
 A collection focused on special topics in Particle Physics and Cosmology.
-> "Truth is much too complicated to allow anything but approximations."
+> "For what is seen is temporary, but what is unseen is eternal."
