@@ -5,7 +5,7 @@ title: Home
 ![Map of Physics](mapofphysics.png)
 # Classical Physics
 # Relativistic Physics
-# Mathematical Physics
+# Mathematics
 # Statistical Physics
 # Quantum Physics
 ![Map of Particles](mapofparticles.jpeg)
