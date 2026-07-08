@@ -10,6 +10,4 @@ title: Home
 # Quantum Physics
 ![Map of Particles](mapofparticles.jpeg)
 # Particle Physics
-* (A) [arXiv](https://arxiv.org/) (B) [PDG](https://pdg.lbl.gov/) (C) [iNSPIRE](https://inspirehep.net/)
-#
-> "For what is seen is temporary, but what is unseen is eternal."
+* The ABCs: (A) [arXiv](https://arxiv.org/) (B) [PDG](https://pdg.lbl.gov/) (C) [iNSPIRE](https://inspirehep.net/)
