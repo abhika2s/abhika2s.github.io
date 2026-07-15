@@ -9,5 +9,3 @@ title: Home
 # Statistical Physics
 # Quantum Physics
 ![Map of Particles](mapofparticles.jpeg)
-# Particle Physics
-* The ABCs: (A) [arXiv](https://arxiv.org/) (B) [PDG](https://pdg.lbl.gov/) (C) [iNSPIRE](https://inspirehep.net/)
