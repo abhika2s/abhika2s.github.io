@@ -2,8 +2,7 @@
 layout: default
 title: Home
 ---
-# Classical Physics
-# Relativistic Physics
-# Mathematics
-# Statistical Physics
-# Quantum Physics
+# Joint Admission Test for Masters
+# Joint Entrance Screening Test
+# Graduate Aptitude Test in Engineering
+# National Eligibility Test
