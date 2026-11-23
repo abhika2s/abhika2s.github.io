@@ -2,43 +2,40 @@
 layout: default
 title: Home
 ---
-## Joint Admission Test for Masters
-* Mathematical Methods
-* Mechanics and General Properties of Matter
-* Oscillations, Waves and Optics
-* Electricity and Magnetism
-* Kinetic Theory and Thermodynamics
-* Modern Physics
-* Solid State Physics, Devices and Electronics
+## Physics (Undergraduate) A
+* Mathematical Methods I
+* Classical Physics I
+* Electromagnetic Theory I
+* Statistical Physics I
+* Quantum Physics I
+* Experimental Methods I
 
-## Joint Entrance Screening Test
-* Mathematical Methods
-* Classical Mechanics
-* Electromagnetism & Optics
-* Quantum Mechanics
-* Thermodynamics & Statistical Physics
-* Electronics
+## Physics (Undergraduate) B
+* Mathematical Methods II
+* Classical Physics II
+* Electromagnetic Theory II
+* Statistical Physics II
+* Quantum Physics II
+* Experimental Methods II
 
-## Graduate Aptitude Test in Engineering
-* Mathematical Physics
-* Classical Mechanics
-* Thermodynamics and Statistical Mechanics
-* Electromagnetic Theory
-* Optical Physics
-* Quantum Mechanics
-* Atomic and Molecular Physics
-* Solid State Physics
-* Nuclear and Particle Physics
-* Electronics
-* Measurements and Error Analysis
+## Physics (Postgraduate) A
+* Mathematical Methods III
+* Classical Physics III
+* Electromagnetic Theory III
+* Statistical Physics III
+* Quantum Physics III
+* Experimental Methods III
+* Atoms and Molecules I
+* Material Science I
+* Nuclei and Particles I
 
-## National Eligibility Test
-* Mathematical Methods of Physics
-* Classical Mechanics
-* Electromagnetic Theory
-* Quantum Mechanics
-* Thermodynamic and Statistical Physics
-* Electronics and Experimental Methods
-* Atomic and Molecular Physics
-* Condensed Matter Physics
-* Nuclear and Particle Physics
+## Physics (Postgraduate) B
+* Mathematical Methods IV
+* Classical Physics IV
+* Electromagnetic Theory IV
+* Statistical Physics IV
+* Quantum Physics IV
+* Experimental Methods IV
+* Atoms and Molecules II
+* Material Science II
+* Nuclei and Particles II
